@@ -52,10 +52,11 @@ assign c=din[2] | din[4] | din[6] | din[7];
 endmodule
 ```
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
-![image](https://github.com/suchitranath/ENCODER8TO3DATAFLOW/assets/145742631/d0ab5e60-9a3d-4aad-97c8-c0c8b21be243)
+![image](https://github.com/suchitranath/ENCODER8TO3DATAFLOW/assets/145742631/9292a783-9131-4955-bb7f-002e6c9a16af)
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
-![image](https://github.com/suchitranath/ENCODER8TO3DATAFLOW/assets/145742631/099bf07e-4f08-4721-8e1d-0c53c960f01a)
+![image](https://github.com/suchitranath/ENCODER8TO3DATAFLOW/assets/145742631/c76b64de-43cb-43e0-accd-13c542413c8a)
+![image](https://github.com/suchitranath/ENCODER8TO3DATAFLOW/assets/145742631/a41234ce-5175-4d98-a6fc-4d2f650d10a4)
 
 **RESULTS**
  Thus the code is ececuted successfully.
